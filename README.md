@@ -8,4 +8,4 @@ Hence, we decided upon creating FamJam, an app that improves family cohesion and
 
 We hope to further expand our ideas beyond FamJam in the future. This concept can be taken and applied to various other kinds of relationships. For example, a classroom setting, where students and teachers can develop greater trust and understanding for each other outside of the classroom. This requires certain modifications of the core functions that can be pivoted to prioritise healthy learning whilst still maintaining a fun environment in which to do so. 
 
-Unfortunately, our team was unable to proceed with web development due to time constraints, we came up with a Figma prototype instead. Here is the link to our prototype: https://www.figma.com/file/mPl4ur40kOaPU01QKwy0M9/PowerPuffs-FamJam?node-id=0%3A1 
+Unfortunately, our team was unable to proceed with app development due to time constraints, we came up with a Figma prototype instead. Here is the link to our prototype: https://www.figma.com/file/mPl4ur40kOaPU01QKwy0M9/PowerPuffs-FamJam?node-id=0%3A1 
